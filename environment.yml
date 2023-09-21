@@ -2,9 +2,7 @@ name: sea-ice-plots
 channels:
   - conda-forge
 dependencies:
-  - python
-  - jupyterlab
   - xarray
-  - pandas>=2.0.0
+  - pandas
   - numpy
   - matplotlib
